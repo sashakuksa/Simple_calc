@@ -1,0 +1,32 @@
+/*.default-input {
+		border: green 5px solid;
+		padding: 5px;
+	}
+.error-input {
+		border: red 5px solid;
+
+	}
+*/
+.jskmb-calculator {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: aliceblue;
+	padding: 50px;
+	border: 1px solid black;
+
+}
+.operations-block button {
+	height: 40px;
+	width: 40px;
+	margin: 20px;
+}
+
+.inputs-block label {
+	display: block;
+}
+.input-block {
+	display: inline-block;
+	padding: 10px;
+
+}
